@@ -1,5 +1,5 @@
 from src.dtw_lab.lab1 import read_csv_from_google_drive, visualize_data, calculate_statistic
-
+from src.dtw_lab.lab1 import read_csv_from_google_drive,visualize_data, calculate_statistic, clean_data
 
 
 if __name__=='__main__':
